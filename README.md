@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Koh Wen Yuan
 - 👀 I’m interested in trying to automate things
 - 🌱 I’m currently learning coding myself
+- The codes that I show here are by no means professional as I am still learning
+- Any feedbacks to improve would be appreciated :)
 - 📫 How to reach me ...
 
 <!---
